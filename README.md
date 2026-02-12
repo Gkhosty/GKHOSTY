@@ -9,7 +9,7 @@
 <p align="center">Stagiaire développeur web motivé et curieux, passionné par la création d’applications web interactives et dynamiques.  
 J’aime transformer des idées en projets concrets et résoudre des problèmes complexes avec du code propre et structuré. </p>
 <br></br>
-<h1 align = "center">🎯 À la recherche d’une alternance d’un an en développement web full-stack.</h1>
+<h1 align = "center">🎯 À la recherche d’une <b>stage</b> d’un an en développement web full-stack.</h1>
  <h1 align="center"> 🚀 À propos de moi </h1>
  
 <ul>
