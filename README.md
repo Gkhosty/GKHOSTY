@@ -10,7 +10,7 @@
 J’aime transformer des idées en projets concrets et résoudre des problèmes complexes avec du code propre et structuré. </p>
 <br></br>
 
- <h1 align="centre"> 🚀 À propos de moi </h1>
+ <h1 align="center"> 🚀 À propos de moi </h1>
  
 <ul>
   <li>💻 Développeur Full-Stack Junior</li>
@@ -52,15 +52,17 @@ J’aime transformer des idées en projets concrets et résoudre des problèmes 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 
-### 🧠 Autres compétences  
-- Architecture front-end & back-end  
-- Bases de données relationnelles  
-- Sécurité & protection des données  
-- Résolution de problèmes  
+<h1 align = "center">🧠 Autres compétences</h1> 
+<ol>
+  <li>Architecture front-end & back-end</li>
+  <li>Bases de données relationnelles</li>
+  <li>Sécurité & protection des données</li>
+  <li>Résolution de problèmes</li>
+</ol>
 
 ---
 
-<h1 align="centre">## 📂 Projets </h1> 
+<h1 align="center">📂 Projets </h1> 
 
 ### 📊 Adataviz  
 Projet en HTML, CSS, JavaScript (Vanilla)  
@@ -75,15 +77,17 @@ Mise en place d’une architecture complète avec connexion base de données.
 
 ---
 
-## 🌍 Langues  
+<h1 align = "center">🌍 Langues  </h1>
+<ul>
+  <li>🇫🇷 Français (B2)</li>
+  <li>🇬🇧 Anglais (B2)</li>
+  <li>🇦🇫 Dari (C)  </li>
+  <li>🇦🇫 Pashto (C)</li>
+  <li>🇮🇳 Hindi (B2)</li>
+</ul>
 
-- 🇫🇷 Français (B2)  
-- 🇬🇧 Anglais (B2)  
-- 🇦🇫 Dari (C)  
-- 🇦🇫 Pashto (C)  
-- 🇮🇳 Hindi (B2)  
+  
 
----
 
 ## 📫 Me contacter  
 
