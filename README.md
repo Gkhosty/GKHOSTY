@@ -2,7 +2,7 @@
 
 💻 Développeur Full-Stack Junior  
 📍 Suresnes, France  
-🎓 Étudiant à Ada Tech School (2025-2026)  
+🎓 Étudiant à Ada Tech School (2025-2026)   
 
 ---
 
