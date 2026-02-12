@@ -84,12 +84,8 @@ Mise en place d’une architecture complète avec connexion base de données.
   <li>🇮🇳 Hindi (B2)</li>
 </ul>
 
-  <br>
-  📫 Me contacter
-  <br/>
   
-
-
+ <h1> 📫 Me contacterS</h1>
 
 📧 Email : omarsaiidy007@gmail.com  
 📱 Téléphone : 07-58-32-94-11  
