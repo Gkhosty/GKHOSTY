@@ -10,6 +10,8 @@
 J’aime transformer des idées en projets concrets et résoudre des problèmes complexes avec du code propre et structuré. </p>
 <br></br>
 
+ <h1 align="centre"> 🚀 À propos de moi </h1>
+ 
 <ul>
   <li>💻 Développeur Full-Stack Junior</li>
   <li>📍 Suresnes, France</li>
@@ -18,7 +20,6 @@ J’aime transformer des idées en projets concrets et résoudre des problèmes 
 
 ---
 
- <h1 align="centre"> 🚀 À propos de moi </h1>
 
 <ol>
   <li>💡 Actuellement en formation Full-Stack </li>
