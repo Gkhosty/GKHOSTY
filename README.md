@@ -21,7 +21,7 @@ J’aime transformer des idées en projets concrets et résoudre des problèmes 
 ---
 
 
-<ol align="right">
+<ol align="center">
   <li>💡 Actuellement en formation Full-Stack </li>
   <li>🌱 J’approfondis React, TypeScript, Next.js et l’architecture backend</li>
   <li>🤝 Ouvert aux collaborations et aux opportunités de stage </li>
