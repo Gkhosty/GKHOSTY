@@ -10,22 +10,22 @@
 J’aime transformer des idées en projets concrets et résoudre des problèmes complexes avec du code propre et structuré. </p>
 <br></br>
 
-<p>💻 Développeur Full-Stack Junior  
-📍 Suresnes, France  
-🎓 Étudiant à Ada Tech School (2025-2026) </p>
-
-
+<ul>
+  <li>💻 Développeur Full-Stack Junior</li>
+  <li>📍 Suresnes, France</li>
+  <li>🎓 Étudiant à Ada Tech School (2025-2026)</li>
+</ul>
 
 ---
 
  <h1 align="centre"> 🚀 À propos de moi </h1>
 
- 
-
-<p>💡 Actuellement en formation Full-Stack  
-🌱 J’approfondis React, TypeScript, Next.js et l’architecture backend  
-🤝 Ouvert aux collaborations et aux opportunités de stage  
-⚡ Fun fact : Je parle 6 langues !</p>
+<ol>
+  <li>💡 Actuellement en formation Full-Stack </li>
+  <li>🌱 J’approfondis React, TypeScript, Next.js et l’architecture backend</li>
+  <li>🤝 Ouvert aux collaborations et aux opportunités de stage </li>
+  <li>⚡ Fun fact : Je parle 6 langues !</li>
+</ol>
 
 ---
 
