@@ -75,8 +75,6 @@ Application développée avec React, TypeScript et Tailwind CSS.
 Projet Full-Stack avec Express, SQL et Neon.  
 Mise en place d’une architecture complète avec connexion base de données.  
 
----
-
 <h1 align = "center">🌍 Langues  </h1>
 <ul>
   <li>🇫🇷 Français (B2)</li>
