@@ -41,6 +41,7 @@ J’aime transformer des idées en projets concrets et résoudre des problèmes 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
 
+
 ### 🔧 Back-End  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -59,7 +60,7 @@ J’aime transformer des idées en projets concrets et résoudre des problèmes 
 
 ---
 
-## 📂 Projets  
+<h1 align="centre">## 📂 Projets </h1> 
 
 ### 📊 Adataviz  
 Projet en HTML, CSS, JavaScript (Vanilla)  
